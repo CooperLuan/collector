@@ -1,0 +1,3 @@
+jieba3k
+flask
+pymongo
